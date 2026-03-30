@@ -4,23 +4,33 @@
 
 To analyze how online reviews influence purchase decisions among young consumers.
 
-## Data Source
+## Dataset
 
-Primary data collected through a questionnaire (140 responses).
+* Primary data collected using Google Forms
+* Total responses: 140
 
 ## Tools Used
 
 * Excel
 * Power BI
 
+## Key Analysis
+
+* Review reading behavior
+* Impact of positive vs negative reviews
+* Trust in reviews vs purchase intention
+
 ## Key Insights
 
-* Online reviews strongly influence purchase decisions
-* Negative reviews have a higher impact than positive reviews
-* Consumers check multiple reviews before making decisions
-* Trust plays a key role in purchase intention
+* Online reviews strongly influence buying decisions
+* Negative reviews have stronger impact than positive ones
+* Consumers check multiple reviews before purchasing
+* Trust plays a key role in decision-making
 
 ## Conclusion
 
-Businesses should focus on managing online reviews and building trust to improve customer decision-making.
+Businesses should actively manage online reviews and focus on building trust to improve customer purchase intention.
+
+
+
 
